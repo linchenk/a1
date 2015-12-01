@@ -1,0 +1,374 @@
+Autotested Results for a1 submitted by Chenkai Lin (linchenk)
+Generated at 2015-11-08T15:15:18
+
+Summary of Results: 273 out of 275 tests successfully passed
+--
+
+Tests for tests.CleanHallwayTest (24/24 passed)
+--
+
+1) getRow() returning the correct value                                               .. ok!
+2) getRow() not changing the return value of getSymbol()                              .. ok!
+3) the method getRow()                                                                .. ok!
+4) getCol() not changing the return value of getRow()                                 .. ok!
+5) the variable row exists and is declared correctly                                  .. ok!
+6) getSymbol() returning the correct value with multiple Walls                        .. ok!
+7) the method getCol()                                                                .. ok!
+8) getSymbol() not changing the return value of getCol()                              .. ok!
+9) toString() returning the correct value                                             .. ok!
+10) toString() not changing the return value of getRow()                               .. ok!
+11) getCol() returning the correct value with multiple Walls                           .. ok!
+12) the constructor exists and is declared correctly                                   .. ok!
+13) that Wall inherits Sprite                                                          .. ok!
+14) getSymbol() not changing the return value of getRow()                              .. ok!
+15) the variable row exists and is declared correctly                                  .. ok!
+16) getRow() not changing the return value of getCol()                                 .. ok!
+17) getRow() returning the correct value with multiple Walls                           .. ok!
+18) toString() not changing the return value of getCol()                               .. ok!
+19) getCol() not changing the return value of getSymbol()                              .. ok!
+20) toString() not changing the return value of getSymbol()                            .. ok!
+21) the method getSymbol()                                                             .. ok!
+22) getCol() returning the correct value                                               .. ok!
+23) the variable symbol exists and is declared correctly                               .. ok!
+24) getSymbol() returning the correct value                                            .. ok!
+
+
+Tests for tests.VacuumGameTest (72/72 passed)
+--
+
+1) getWinner gives correct results                                                    .. ok!
+2) getSprite with dustball                                                            .. ok!
+3) variable grid                                                                      .. ok!
+4) getWinner gives correct results                                                    .. ok!
+5) getWinner gives correct results                                                    .. ok!
+6) getSprite with wall                                                                .. ok!
+7) move right twice onto vacuum                                                       .. ok!
+8) move right on wall                                                                 .. ok!
+9) getNumRows with 6 rows                                                             .. ok!
+10) getGrid type                                                                       .. ok!
+11) variable vacuum2                                                                   .. ok!
+12) gameOver gives correct results                                                     .. ok!
+13) variable random                                                                    .. ok!
+14) move left on other vacuum                                                          .. ok!
+15) move right twice onto wall                                                         .. ok!
+16) getWinner gives correct results                                                    .. ok!
+17) move right                                                                         .. ok!
+18) move right twice on clean                                                          .. ok!
+19) move up on wall                                                                    .. ok!
+20) getNumRows with 12 rows                                                            .. ok!
+21) move up twice onto wall                                                            .. ok!
+22) move left twice onto vacuum                                                        .. ok!
+23) move down on wall                                                                  .. ok!
+24) getVacuumOne non-null                                                              .. ok!
+25) getNumRows type                                                                    .. ok!
+26) getSprite with dirt                                                                .. ok!
+27) getVacuumOne type                                                                  .. ok!
+28) getSprite with clean                                                               .. ok!
+29) move down twice onto vacuum                                                        .. ok!
+30) move up twice on clean                                                             .. ok!
+31) move down                                                                          .. ok!
+32) clean gives correct results                                                        .. ok!
+33) variable vacuum1                                                                   .. ok!
+34) getNumCols with 7 cols                                                             .. ok!
+35) move left                                                                          .. ok!
+36) getNumRows with 7 rows                                                             .. ok!
+37) move up twice onto vacuum                                                          .. ok!
+38) getSprite type                                                                     .. ok!
+39) getNumCols with 36 cols                                                            .. ok!
+40) move left twice onto wall                                                          .. ok!
+41) getVacuumTwo type                                                                  .. ok!
+42) getVacuumTwo non-null                                                              .. ok!
+43) clean gives correct results                                                        .. ok!
+44) move up                                                                            .. ok!
+45) clean gives correct results                                                        .. ok!
+46) move type                                                                          .. ok!
+47) getNumCols with 24 cols                                                            .. ok!
+48) getWinner gives correct results                                                    .. ok!
+49) move left twice on clean                                                           .. ok!
+50) getSprite with vacuum                                                              .. ok!
+51) has won type                                                                       .. ok!
+52) getSprite with vacuum                                                              .. ok!
+53) getWinner gives correct results                                                    .. ok!
+54) move down twice on clean                                                           .. ok!
+55) getNumClumns type                                                                  .. ok!
+56) move right on other vacuum                                                         .. ok!
+57) getWinner gives correct results                                                    .. ok!
+58) move up on other vacuum                                                            .. ok!
+59) move left on wall                                                                  .. ok!
+60) getWinner gives correct results                                                    .. ok!
+61) getNumRows with 16 rows                                                            .. ok!
+62) variable dirts                                                                     .. ok!
+63) getSprite with clean                                                               .. ok!
+64) move down on other vacuum                                                          .. ok!
+65) non-null grid                                                                      .. ok!
+66) getWinner gives correct results                                                    .. ok!
+67) VacuumGame                                                                         .. ok!
+68) getWinner gives correct results                                                    .. ok!
+69) clean gives correct results                                                        .. ok!
+70) move down twice onto wall                                                          .. ok!
+71) getNumCols with 7 cols                                                             .. ok!
+72) getWinner gives correct results                                                    .. ok!
+
+
+Tests for tests.DumpsterTest (24/24 passed)
+--
+
+1) getRow() returning the correct value                                               .. ok!
+2) getRow() not changing the return value of getSymbol()                              .. ok!
+3) the method getRow()                                                                .. ok!
+4) getCol() not changing the return value of getRow()                                 .. ok!
+5) the variable row exists and is declared correctly                                  .. ok!
+6) getSymbol() returning the correct value with multiple Walls                        .. ok!
+7) the method getCol()                                                                .. ok!
+8) getSymbol() not changing the return value of getCol()                              .. ok!
+9) toString() returning the correct value                                             .. ok!
+10) toString() not changing the return value of getRow()                               .. ok!
+11) getCol() returning the correct value with multiple Walls                           .. ok!
+12) the constructor exists and is declared correctly                                   .. ok!
+13) that Wall inherits Sprite                                                          .. ok!
+14) getSymbol() not changing the return value of getRow()                              .. ok!
+15) the variable row exists and is declared correctly                                  .. ok!
+16) getRow() not changing the return value of getCol()                                 .. ok!
+17) getRow() returning the correct value with multiple Walls                           .. ok!
+18) toString() not changing the return value of getCol()                               .. ok!
+19) getCol() not changing the return value of getSymbol()                              .. ok!
+20) toString() not changing the return value of getSymbol()                            .. ok!
+21) the method getSymbol()                                                             .. ok!
+22) getCol() returning the correct value                                               .. ok!
+23) the variable symbol exists and is declared correctly                               .. ok!
+24) getSymbol() returning the correct value                                            .. ok!
+
+
+Tests for tests.DustBallTest (29/29 passed)
+--
+
+1) getRow() returning the correct value                                               .. ok!
+2) getRow() not changing the return value of getSymbol()                              .. ok!
+3) the method getRow()                                                                .. ok!
+4) getCol() not changing the return value of getRow()                                 .. ok!
+5) the variable row exists and is declared correctly                                  .. ok!
+6) getSymbol() returning the correct value with multiple Walls                        .. ok!
+7) the method getCol()                                                                .. ok!
+8) getValue is correct                                                                .. ok!
+9) moveTo dustball moves correctly                                                    .. ok!
+10) getSymbol() not changing the return value of getCol()                              .. ok!
+11) toString() returning the correct value                                             .. ok!
+12) moveTo signature                                                                   .. ok!
+13) getCol() returning the correct value with multiple Walls                           .. ok!
+14) that DustBall is Moveable                                                          .. ok!
+15) moveTo dustball moves correctly                                                    .. ok!
+16) toString() not changing the return value of getRow()                               .. ok!
+17) the constructor exists and is declared correctly                                   .. ok!
+18) that DustBall inherits Sprite                                                      .. ok!
+19) getSymbol() not changing the return value of getRow()                              .. ok!
+20) the variable row exists and is declared correctly                                  .. ok!
+21) getRow() not changing the return value of getCol()                                 .. ok!
+22) getRow() returning the correct value with multiple Walls                           .. ok!
+23) toString() not changing the return value of getCol()                               .. ok!
+24) getCol() not changing the return value of getSymbol()                              .. ok!
+25) toString() not changing the return value of getSymbol()                            .. ok!
+26) the method getSymbol()                                                             .. ok!
+27) getCol() returning the correct value                                               .. ok!
+28) the variable symbol exists and is declared correctly                               .. ok!
+29) getSymbol() returning the correct value                                            .. ok!
+
+
+Tests for tests.MoveableTest (1/1 passed)
+--
+
+1) the method move()                                                                  .. ok!
+
+
+Tests for tests.SpriteTest (4/4 passed)
+--
+
+1) the variable row exists and is declared correctly                                  .. ok!
+2) the variable symbol exists and is declared correctly                               .. ok!
+3) the constructor exists and is declared correctly                                   .. ok!
+4) the variable column exists and is declared correctly                               .. ok!
+
+
+Tests for tests.DirtTest (25/25 passed)
+--
+
+1) getRow() returning the correct value                                               .. ok!
+2) getRow() not changing the return value of getSymbol()                              .. ok!
+3) the method getRow()                                                                .. ok!
+4) getCol() not changing the return value of getRow()                                 .. ok!
+5) the variable row exists and is declared correctly                                  .. ok!
+6) getSymbol() returning the correct value with multiple Walls                        .. ok!
+7) the method getCol()                                                                .. ok!
+8) getValue is correct                                                                .. ok!
+9) getSymbol() not changing the return value of getCol()                              .. ok!
+10) toString() returning the correct value                                             .. ok!
+11) toString() not changing the return value of getRow()                               .. ok!
+12) getCol() returning the correct value with multiple Walls                           .. ok!
+13) the constructor exists and is declared correctly                                   .. ok!
+14) that Wall inherits Sprite                                                          .. ok!
+15) getSymbol() not changing the return value of getRow()                              .. ok!
+16) the variable row exists and is declared correctly                                  .. ok!
+17) getRow() not changing the return value of getCol()                                 .. ok!
+18) getRow() returning the correct value with multiple Walls                           .. ok!
+19) toString() not changing the return value of getCol()                               .. ok!
+20) getCol() not changing the return value of getSymbol()                              .. ok!
+21) toString() not changing the return value of getSymbol()                            .. ok!
+22) the method getSymbol()                                                             .. ok!
+23) getCol() returning the correct value                                               .. ok!
+24) the variable symbol exists and is declared correctly                               .. ok!
+25) getSymbol() returning the correct value                                            .. ok!
+
+
+Tests for tests.ArrayGridTest (31/33 passed)
+--
+
+1) ArrayGrid setCell over non-vacant cell                                             .. ok!
+2) ArrayGrid constructor                                                              .. ok!
+3) ArrayGrid setCell vacant                                                           .. ok!
+4) ArrayGrid equals signature                                                         .. ok!
+5) ArrayGrid setCell V2                                                               .. ok!
+6) ArrayGrid equals with different dimensions                                         .. ok!
+7) ArrayGrid getNumColumns                                                            .. ok!
+8) ArrayGrid setCell V2                                                               .. ok!
+9) ArrayGrid setCell dirt                                                             .. ok!
+10) ArrayGrid setCell wall                                                             .. ok!
+11) ArrayGrid getNumRows                                                               .. ok!
+12) ArrayGrid setCell dustball                                                         .. ok!
+13) ArrayGrid toString signature                                                       .. ok!
+14) ArrayGrid getNumRows                                                               .. ok!
+15) ArrayGrid getNumColumns signature                                                  .. ok!
+16) ArrayGrid toString with all sprites                                                .. ok!
+17) ArrayGrid setCell V1                                                               .. ok!
+18) ArrayGrid toString with all walls                                                  .. ok!
+19) ArrayGrid getNumColumns                                                            .. ok!
+20) ArrayGrid equals with different dimensions                                         .. ok!
+21) ArrayGrid setCell visited                                                          .. ok!
+22) ArrayGrid getCell signature                                                        .. ok!
+23) ArrayGrid getNumRows signature                                                     .. ok!
+24) ArrayGrid setCell walls                                                            .. ok!
+25) ArrayGrid getNumRows                                                               .. ok!
+26) ArrayGrid implements Grid                                                          .. ok!
+27) ArrayGrid equals with different swapped sprites                                    .. ok!
+28) ArrayGrid equals self                                                              .. ok!
+29) ArrayGrid equals with different dimensions                                         .. ok!
+30) ArrayGrid equals with different sprites                                            .. ok!
+31) ArrayGrid setCell signature                                                        .. ok!
+32) ArrayGrid equals with similar dimensions                                           .. failed
+.. because An ArrayGrid should be equal to an identical ArrayGrid (details below):
+
+    java.lang.AssertionError: An ArrayGrid should be equal to an identical ArrayGrid
+    	at org.junit.Assert.fail(Assert.java:88)
+    	at org.junit.Assert.assertTrue(Assert.java:41)
+    	at tests.ArrayGridTest.testEqualsSimilarSprites(ArrayGridTest.java:610)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:606)
+    	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+    	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+    	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+    	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+    	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+    	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+    	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+    	at java.lang.Thread.run(Thread.java:745)
+
+33) ArrayGrid equals same                                                              .. failed
+.. because An ArrayGrid should be equal to an identical ArrayGrid (details below):
+
+    java.lang.AssertionError: An ArrayGrid should be equal to an identical ArrayGrid
+    	at org.junit.Assert.fail(Assert.java:88)
+    	at org.junit.Assert.assertTrue(Assert.java:41)
+    	at tests.ArrayGridTest.testEqualsIdentical(ArrayGridTest.java:470)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:606)
+    	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+    	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+    	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+    	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+    	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+    	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+    	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+    	at java.lang.Thread.run(Thread.java:745)
+
+
+
+Tests for tests.GridTest (6/6 passed)
+--
+
+1) Grid equals signature                                                              .. ok!
+2) Grid toString signature                                                            .. ok!
+3) Grid getCell signature                                                             .. ok!
+4) Grid getNumRows signature                                                          .. ok!
+5) Grid getNumColumns signature                                                       .. ok!
+6) Grid setCell signature                                                             .. ok!
+
+
+Tests for tests.VacuumTest (33/33 passed)
+--
+
+1) empty modifies vacuum fullness                                                     .. ok!
+2) getRow() returning the correct value                                               .. ok!
+3) getRow() not changing the return value of getSymbol()                              .. ok!
+4) clean() modifies vacuum fullness                                                   .. ok!
+5) the method getRow()                                                                .. ok!
+6) getCol() not changing the return value of getRow()                                 .. ok!
+7) the variable row exists and is declared correctly                                  .. ok!
+8) getSymbol() returning the correct value with multiple Walls                        .. ok!
+9) the method getCol()                                                                .. ok!
+10) moveTo modifies location correctly                                                 .. ok!
+11) getSymbol() not changing the return value of getCol()                              .. ok!
+12) toString() returning the correct value                                             .. ok!
+13) moveTo has correct signature                                                       .. ok!
+14) toString() not changing the return value of getRow()                               .. ok!
+15) Vacuum correctly implements Moveable                                               .. ok!
+16) getCol() returning the correct value with multiple Walls                           .. ok!
+17) the constructor exists and is declared correctly                                   .. ok!
+18) getScore returns correct score                                                     .. ok!
+19) Vacuum correctly inherits from Sprite                                              .. ok!
+20) setUnder() sets the under sprite                                                   .. ok!
+21) getSymbol() not changing the return value of getRow()                              .. ok!
+22) the variable row exists and is declared correctly                                  .. ok!
+23) getScore returns correct value after emptying                                      .. ok!
+24) getRow() not changing the return value of getCol()                                 .. ok!
+25) getRow() returning the correct value with multiple Walls                           .. ok!
+26) toString() not changing the return value of getCol()                               .. ok!
+27) getCol() not changing the return value of getSymbol()                              .. ok!
+28) toString() not changing the return value of getSymbol()                            .. ok!
+29) the method getSymbol()                                                             .. ok!
+30) getCol() returning the correct value                                               .. ok!
+31) the variable symbol exists and is declared correctly                               .. ok!
+32) moveTo modifies location of correct vacuum                                         .. ok!
+33) getSymbol() returning the correct value                                            .. ok!
+
+
+Tests for tests.WallTest (24/24 passed)
+--
+
+1) getRow() returning the correct value                                               .. ok!
+2) getRow() not changing the return value of getSymbol()                              .. ok!
+3) the method getRow()                                                                .. ok!
+4) getCol() not changing the return value of getRow()                                 .. ok!
+5) the variable row exists and is declared correctly                                  .. ok!
+6) getSymbol() returning the correct value with multiple Walls                        .. ok!
+7) the method getCol()                                                                .. ok!
+8) getSymbol() not changing the return value of getCol()                              .. ok!
+9) toString() returning the correct value                                             .. ok!
+10) toString() not changing the return value of getRow()                               .. ok!
+11) getCol() returning the correct value with multiple Walls                           .. ok!
+12) the constructor exists and is declared correctly                                   .. ok!
+13) that Wall inherits Sprite                                                          .. ok!
+14) getSymbol() not changing the return value of getRow()                              .. ok!
+15) the variable row exists and is declared correctly                                  .. ok!
+16) getRow() not changing the return value of getCol()                                 .. ok!
+17) getRow() returning the correct value with multiple Walls                           .. ok!
+18) toString() not changing the return value of getCol()                               .. ok!
+19) getCol() not changing the return value of getSymbol()                              .. ok!
+20) toString() not changing the return value of getSymbol()                            .. ok!
+21) the method getSymbol()                                                             .. ok!
+22) getCol() returning the correct value                                               .. ok!
+23) the variable symbol exists and is declared correctly                               .. ok!
+24) getSymbol() returning the correct value                                            .. ok!
+
+

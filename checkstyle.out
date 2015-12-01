@@ -1,0 +1,12 @@
+Starting audit...
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/Constants.java:10: warning: Line is longer than 100 characters (found 111).
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:229:55: warning: Empty if block.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:230:7: warning: '}' at column 7 should be on the same line as the next part of a multi-block statement.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:235:5: warning: '}' at column 5 should be on the same line as the next part of a multi-block statement.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:251:7: warning: '}' at column 7 should be on the same line as the next part of a multi-block statement.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:265:7: warning: '}' at column 7 should be on the same line as the next part of a multi-block statement.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:272:7: warning: '}' at column 7 should be on the same line as the next part of a multi-block statement.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:329:56: warning: Empty if block.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/game/VacuumGame.java:330:5: warning: '}' at column 5 should be on the same line as the next part of a multi-block statement.
+/home/anya/teaching/f15_b07/submissions/linchenk/a1/A1soln/src/sprites/Vacuum.java:35:5: warning: '}' at column 5 should be on the same line as the next part of a multi-block statement.
+Audit done.
